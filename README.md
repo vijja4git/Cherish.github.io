@@ -6,7 +6,7 @@ Computer Science
 Laxmiteja Controls and instrumentation | Aug 2019 - Sep 2022
 
 
-##• Embedded Software Engineer |Laxmiteja Controls and Instrumentation. May 2019 - Sept 2022
+## Embedded Software Engineer |Laxmiteja Controls and Instrumentation. May 2019 - Sept 2022
 ◦Engineered embedded control systems for industrial automation across pharmaceutical, biotech, and textile sectors. Led the design,
 development, and validation of firmware-based solutions for real-time applications by replacing legacy analog systems with
 microcontroller-based digital architectures..
@@ -37,7 +37,9 @@ relay-based control systems
 ◦Implemented relay-based control logic with built-in timing delays, retraction buffers, and environmental interlock logic.
 ◦Simulated system with load tests before field deployment and validated with pharma QA engineers under live environmental constraints.
 ◦Simulated system with load tests before field deployment and validated with pharma QA engineers under live environmental constraints.
-###Projects & Other Work
+
+### Projects & Other Work
+
 • Pixie Robot – Real-Time Object Tracking System (Academic) | Arduino Uno |Pixie Camera |C/C++ |TCP/IP |Embedded
 Debugging |Robotics Integration)
 ◦ Designed and implemented a modular robotic system for real-time object tracking using color calibration rather than object shape
